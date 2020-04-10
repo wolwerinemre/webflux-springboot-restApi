@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+springdoc:
+  swagger-ui:
+    enable: true
+    path: /api/swagger-ui.html
+    webjars:
+      prefix: /api/webjars
